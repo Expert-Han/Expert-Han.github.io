@@ -30,10 +30,9 @@ Applied Mathematics and Computation, vol. 31, no. 8, pp. 3279-3309, May 2021.
 ---
 
 # <span style="color:#800000">Conference</span>
--  Yongsik Jun, **Seungyong Han**, Jongcheon Park, Sangmoon Lee*, "Sampled-data Synchronization of Recurrent Neural Networks with Multi-GPUs," 2019 IEEE Symposium Series on Computational Intelligence, Pages. 2172-2177, 2019. (SSCI)
-- **Seungyong Han**, Yongsik Jin, Jongcheon Park, Kunho Kim, Ayong Choi, Sangmoon lee*, "Sampled-data Synchronization of Recurrent Neural Networks with Multi-GPUs," The 16th IEMEK Symposium on Embedded Technology ( ISET2019 ), Poster, 2019.
-- **Seungyong Han**, Jongcheon Park, Sangmoon Lee*, "ROS based implementation for dynamics modeling and contact force estimation of 7 DOF manipulator," 정보 및 제어 논문집, Pages. 334-335, 2019.
-- **Seungyong Han**, Hyein Jung, Jongcheon Park, Sangmoon Lee*, "The controller design for sampled-data control systems using a clock-dependent Lyapunov function and looped functionals," The 16th IEMEK Symposium on Embedded Technology ( ISET2020 ), Poster, 2020.
 - Jongcheon Park, **Seungyong Han**, Hye-In Jung, Dong-Hee, Sangmoon Lee*, "Dual reward function based TD3-GAIL for imitation learning," The 16th IEMEK Symposium on Embedded Technology ( ISET2021 ), Poster, 2021.
+- **Seungyong Han**, Hyein Jung, Jongcheon Park, Sangmoon Lee*, "The controller design for sampled-data control systems using a clock-dependent Lyapunov function and looped functionals," The 16th IEMEK Symposium on Embedded Technology (ISET2020), Poster, 2020.
+- **Seungyong Han**, Jongcheon Park, Sangmoon Lee*, "ROS based implementation for dynamics modeling and contact force estimation of 7 DOF manipulator," 정보 및 제어 논문집, pp. 334-335, 2019.
+- Yongsik Jun, **Seungyong Han**, Jongcheon Park, Sangmoon Lee*, "Sampled-data Synchronization of Recurrent Neural Networks with Multi-GPUs," 2019 IEEE Symposium Series on Computational Intelligence (SSCI), pp. 2172-2177, 2019. 
 
 <br>
