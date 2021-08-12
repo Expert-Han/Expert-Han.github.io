@@ -7,7 +7,7 @@ comments: false
 ---
 <br>
 
-## Google Scholar : [<span style="color:Fuchsia">here</span>](https://scholar.google.com/citations?user=zSzvEmkAAAAJ&hl=ko&authuser=2)
+## Google Scholar : [<span style="color:Fuchsia">here</span>](https://scholar.google.com/citations?user=fXESAT8AAAAJ&hl=ko&authuser=2)
 
 ---
 
