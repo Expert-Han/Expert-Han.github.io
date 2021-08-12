@@ -22,7 +22,7 @@ IEEE/ASME Transactions on Mechatronics, to be published, doi: 10.1109/TMECH.2021
 Applied Mathematics and Computation, vol. 31, no. 8, pp. 3279-3309, May 2021.
 - **S.Y. Han**, Suneel Kumar Kommuri, S.M. Lee, "Affine Transformed IT2 Fuzzy Event-Triggered Control Under Deception Attacks," IEEE Transactions on Fuzzy Systems, vol. 29, no. 2, pp. 322-335, Feb. 2021.
 - H.I. Jung, **S.Y. Han**, S.M. Lee, "Event-Triggered H 2 Attitude Controller Design for 3 DOF Hover Systems," IEMEK Journal of Embedded Systems and Applications, vol. 15, no. 3, pp. 139-148, Jun. 2020.
-- Jongcheon Park, **Seungyong Han**, Yongsik Jun, Sangmoon lee*, "Variable Impedance Control for Industrial Manipulators Based on Sensor-Less External Force Estimator for CPPS," IEMEK Journal of Embedded Systems and Applications, vol. 14 no. 5, pp. 259-267, Oct. 2019.
+- Jongcheon Park, **Seungyong Han**, Yongsik Jun, Sangmoon Lee*, "Variable Impedance Control for Industrial Manipulators Based on Sensor-Less External Force Estimator for CPPS," IEMEK Journal of Embedded Systems and Applications, vol. 14 no. 5, pp. 259-267, Oct. 2019.
 
 
 <br>
@@ -30,10 +30,10 @@ Applied Mathematics and Computation, vol. 31, no. 8, pp. 3279-3309, May 2021.
 ---
 
 # <span style="color:#800000">Conference</span>
-1.  Yongsik Jun, Seungyong Han, **Jongcheon Park**, Sangmoon lee*, "Sampled-data Synchronization of Recurrent Neural Networks with Multi-GPUs," 2019 IEEE Symposium Series on Computational Intelligence, Pages. 2172-2177, 2019. (SSCI)
-2. Seungyong Han, Yongsik Jin, **Jongcheon Park**, Kunho Kim, Ayong Choi, Sangmoon lee*, "Sampled-data Synchronization of Recurrent Neural Networks with Multi-GPUs," The 16th IEMEK Symposium on Embedded Technology ( ISET2019 ), Poster, 2019.
-3. Seungyong Han, **Jongcheon Park**, Sangmoon lee*, "ROS based implementation for dynamics modeling and contact force estimation of 7 DOF manipulator," 정보 및 제어 논문집, Pages. 334-335, 2019.
-4. Seungyong Han, Hyein Jung, **Jongcheon Park**, Sangmoon lee*, "The controller design for sampled-data control systems using a clock-dependent Lyapunov function and looped functionals," The 16th IEMEK Symposium on Embedded Technology ( ISET2020 ), Poster, 2020.
-5. **Jongcheon Park**, Seungyong Han, Hye-In Jung, Dong-Hee, Sangmoon lee*, "Dual reward function based TD3-GAIL for imitation learning," The 16th IEMEK Symposium on Embedded Technology ( ISET2021 ), Poster, 2021.
+-  Yongsik Jun, **Seungyong Han**, Jongcheon Park, Sangmoon Lee*, "Sampled-data Synchronization of Recurrent Neural Networks with Multi-GPUs," 2019 IEEE Symposium Series on Computational Intelligence, Pages. 2172-2177, 2019. (SSCI)
+- **Seungyong Han**, Yongsik Jin, Jongcheon Park, Kunho Kim, Ayong Choi, Sangmoon lee*, "Sampled-data Synchronization of Recurrent Neural Networks with Multi-GPUs," The 16th IEMEK Symposium on Embedded Technology ( ISET2019 ), Poster, 2019.
+- **Seungyong Han**, Jongcheon Park, Sangmoon Lee*, "ROS based implementation for dynamics modeling and contact force estimation of 7 DOF manipulator," 정보 및 제어 논문집, Pages. 334-335, 2019.
+- **Seungyong Han**, Hyein Jung, Jongcheon Park, Sangmoon Lee*, "The controller design for sampled-data control systems using a clock-dependent Lyapunov function and looped functionals," The 16th IEMEK Symposium on Embedded Technology ( ISET2020 ), Poster, 2020.
+- Jongcheon Park, **Seungyong Han**, Hye-In Jung, Dong-Hee, Sangmoon Lee*, "Dual reward function based TD3-GAIL for imitation learning," The 16th IEMEK Symposium on Embedded Technology ( ISET2021 ), Poster, 2021.
 
 <br>
