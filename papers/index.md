@@ -11,7 +11,7 @@ comments: false
 
 ---
 
-# <span style="color:#800000">Journal Papers</span>
+# <span style="color:#800000">Journal</span>
 
 
 - Satnesh Singh, **S.Y. Han**, S.M.Lee, "Adaptive single input sliding mode control for hybrid-synchronization of uncertain hyperchaotic Lu systems," Journal of the Franklin Institute, to be published, doi: 10.1016/j.jfranklin.2021.07.037.
