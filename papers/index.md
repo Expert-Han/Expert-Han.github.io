@@ -19,7 +19,7 @@ comments: false
 - Suneel Kommuri, **S.Y. Han**, S.M. Lee, "External Torque Estimation using Higher-order Sliding Mode Observer for Robot Manipulators," 
 IEEE/ASME Transactions on Mechatronics, to be published, doi: 10.1109/TMECH.2021.3067443.
 - **S.Y. Han** and S.M. Lee, "Sampled-parameter dependent stabilization for linear parameter varying systems with asynchronous parameter sampling," 
-Applied Mathematics and Computation, vol. 31, no. 8, pp. 3279-3309, May 2021.
+International Journal of Robust and Nonlinear Control, vol. 31, no. 8, pp. 3279-3309, May 2021.
 - **S.Y. Han**, Suneel Kumar Kommuri, S.M. Lee, "Affine Transformed IT2 Fuzzy Event-Triggered Control Under Deception Attacks," IEEE Transactions on Fuzzy Systems, vol. 29, no. 2, pp. 322-335, Feb. 2021.
 - H.I. Jung, **S.Y. Han**, S.M. Lee, "Event-Triggered H 2 Attitude Controller Design for 3 DOF Hover Systems," IEMEK Journal of Embedded Systems and Applications, vol. 15, no. 3, pp. 139-148, Jun. 2020.
 - Jongcheon Park, **Seungyong Han**, Yongsik Jun, Sangmoon Lee*, "Variable Impedance Control for Industrial Manipulators Based on Sensor-Less External Force Estimator for CPPS," IEMEK Journal of Embedded Systems and Applications, vol. 14 no. 5, pp. 259-267, Oct. 2019.
